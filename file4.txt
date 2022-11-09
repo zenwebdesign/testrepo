@@ -3,3 +3,4 @@ branza
 lapte
 banane
 capsuni
+kiwikiwi
