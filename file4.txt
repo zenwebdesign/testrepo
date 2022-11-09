@@ -1,3 +1,5 @@
 rosii
 branza
 lapte
+banane
+mere
