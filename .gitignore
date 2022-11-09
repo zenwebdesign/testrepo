@@ -1,0 +1,10 @@
+LICENSE.txt
+README.portable        
+bin/        
+cmd/        
+etc/        
+git-bash.exe        
+git-cmd.exe        
+mingw32/        
+tatus
+usr/        
