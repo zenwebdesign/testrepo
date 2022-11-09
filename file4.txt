@@ -2,3 +2,4 @@ rosii
 branza
 lapte
 banane
+capsuni
