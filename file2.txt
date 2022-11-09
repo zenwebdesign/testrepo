@@ -1,1 +1,2 @@
 text adaugat pt commit 3
+modificat in github manual
