@@ -1,2 +1,3 @@
 text adaugat pt commit 3
 modificat in github manual
+modificat pe local pt alt push 
