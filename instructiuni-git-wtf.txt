@@ -1,0 +1,6 @@
+After writing commit message, just press Esc Button and then write :wq or :wq! and then Enter to close the unix file.
+
+20
+
+
+After git commit command, you entered to the editor, so first hit i then start typing. After committing your message hit Ctrl + c then :wq
